@@ -2,7 +2,7 @@
   
 BSc and MSc in Computer Science @ Sapienza Università di Roma
 
-Interested in the study of algorithms, combinatorics and computational complexity.
+Interested in the study of complexity theory, algorithms and combinatorics.
 
 I'm also a huge movie nerd, check out my [Letterboxd](https://boxd.it/4GYA5) !
 </div>

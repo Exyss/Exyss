@@ -1,4 +1,17 @@
-<h1 align="center">The you in you isn't the you you think is in you</h1>
+<div align="center">
+  
+BSc and MSc in Computer Science @ Sapienza Università di Roma
 
-<h1 align="center"><img src="https://i.giphy.com/breOCFHmEm3DO.webp"></h1>
-<p align="right"> ~ Paprika (2006), by Satoshi Kon </p>
+Interested in the study of algorithms, combinatorics and computational complexity.
+
+I'm also a huge movie nerd, check out my [Letterboxd](https://boxd.it/4GYA5) !
+</div>
+
+-----------
+
+<div align="center">
+  <img width="50%" src="https://i.giphy.com/breOCFHmEm3DO.webp">
+  <p> Paprika (2006) </p>
+</div>
+
+> «The you in you isn't the you you think is in you» - Satoshi Kon
